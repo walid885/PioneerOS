@@ -12,3 +12,4 @@ well , there was an issue in this implemntation, because , as far as I did undes
 aftre running the configure buildrro robot .sh file , I get to run this , to be configure the implmentation of the wifi ssid
 (base) walid@MR-HP:~/buildroot$ sudo gedit board/raspberrypi/overlay/etc/wpa_supplicant.conf
 
+unset LD_LIBRARY_PATH
